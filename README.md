@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kieranbeirne
-- 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 👋 Hi, I’m Kieran Beirne and I'm a sophomore Computer Science student at Texas A&M.
+- 👀 I’m interested in Software Engineering.
+- 🌱 I’m an incoming SWE intern at ERCOT for Summer 2022.
 - 📫 How to reach me: kieranbeirne01@gmail.com
 
 <!---
