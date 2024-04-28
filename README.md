@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering and Cloud Computing.
 - 🌱 I was a DevOps intern at ERCOT for Summer 2022.
 - 🎯 I was a SWE intern at Target for Summer 2023.
-- 🚗 I was a SWE intern at Target for Fall 2023.
+- 🚗 I was a SWE intern at Tesla for Fall 2023.
 - 📫 How to reach me: kieranbeirne01@gmail.com or https://www.linkedin.com/in/kieranbeirne/
 
 
