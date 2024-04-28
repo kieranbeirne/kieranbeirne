@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kieran Beirne and I'm a junior Computer Science student at Texas A&M, graduating in Spring 2024.
-- 👀 I’m interested in Software Engineering and Cloud Computing.
+- 👋 Hi, I’m Kieran Beirne and I'm a Computer Science student at Texas A&M, graduating in May 2024.
+- 👀 I’m interested in Software Engineering, Site Reliability Engineering and Mobile Development.
 - 🌱 I was a DevOps intern at ERCOT for Summer 2022.
 - 🎯 I was a SWE intern at Target for Summer 2023.
 - 🚗 I was a SWE intern at Tesla for Fall 2023.
